@@ -1,4 +1,4 @@
 // Write your JavaScript code here.
 // Remember to pay attention to page loading!
 
-window.addEventListener("load", fucntion())
+window.addEventListener("load", fucntion() )
